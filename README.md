@@ -120,6 +120,26 @@ file-converter/
 
 欢迎提交 Issue 和 Pull Request 来改进项目。
 
+## ☕ 支持作者
+
+如果这个项目对您有帮助，您可以请作者喝杯咖啡 ☕
+
+### 微信打赏
+
+<img src="./public/wechat.jpg" alt="微信打赏" width="200" height="200" />
+
+扫描上方二维码，支持项目开发 🙏
+
+### 其他支持方式
+
+- ⭐ 给项目点个 Star
+- 🐛 提交 Bug 报告
+- 💡 提出新功能建议
+- 📖 完善项目文档
+- 🔀 提交 Pull Request
+
+您的支持是我持续维护和改进项目的动力！
+
 ## �� 许可证
 
 MIT License
